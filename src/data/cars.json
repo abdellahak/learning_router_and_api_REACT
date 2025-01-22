@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Toyota",
+      "model": "Corolla",
+      "year": 2015,
+      "available": true,
+      "image": "/images/car1.png",
+      "price": 150,
+      "type": "essence"
+    },
+    {
+      "id": "2",
+      "name": "Honda",
+      "model": "Civic",
+      "year": 2016,
+      "available": false,
+      "image": "/images/car2.jpg",
+      "price": 160,
+      "type": "gazoil"
+    },
+    {
+      "id": "3",
+      "name": "Suzuki",
+      "model": "Swift",
+      "year": 2017,
+      "available": true,
+      "image": "/images/car3.png",
+      "price": 140,
+      "type": "essence"
+    },
+    {
+      "id": "4",
+      "name": "Hyundai",
+      "model": "Accent",
+      "year": 2018,
+      "available": false,
+      "image": "/images/car4.JPG",
+      "price": 170,
+      "type": "gazoil"
+    },
+    {
+      "id": "5",
+      "name": "Kia",
+      "model": "Rio",
+      "year": 2019,
+      "available": true,
+      "image": "/images/car5.jpeg",
+      "price": 180,
+      "type": "essence"
+    },
+    {
+      "id": "6",
+      "name": "Fiat",
+      "model": "tipo",
+      "year": 2024,
+      "available": true,
+      "image": "/images/car6.jpg",
+      "price": 300,
+      "type": "gazoil"
+    }
+  ]
+}
